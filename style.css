@@ -15,6 +15,9 @@ body{
                height: 320px;
                width: 85%;
                border-radius: 7px;
+               background-color: black;
+               height: auto;
+               padding: 15px;
              }
              header{
                  display: flex;
@@ -253,9 +256,12 @@ body{
                  display: flex;               
              }
              #techie{
-               height: 320px;
+               height: 350px;
                width: 70%;
                border-radius: 7px;
+               background-color: black;
+               height: auto;
+               padding: 15px;
              }
              header{
                  display: flex;
