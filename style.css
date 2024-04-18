@@ -338,6 +338,7 @@ body{
              }
              footer p{
                  margin: 8px;
+                 font-size: 15px;
              }
              .foot{
                  display: flex;
