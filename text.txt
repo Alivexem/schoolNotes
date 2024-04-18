@@ -1,0 +1,11 @@
+ <i class="fa-solid fa-parachute-box"></i>
+         <i class="fa-solid fa-folder-plus"></i>
+         <i class="fa-brands fa-facebook-f"></i>
+         <i class="fa-brands fa-linkedin"></i>
+         <i class="fa-brands fa-x-twitter"></i>
+         <i class="fa-solid fa-phone"></i>
+         <i class="fa-regular fa-envelope"></i>
+         <i class="fa-regular fa-address-card"></i>
+         
+         font-family: 'Amaranth-Bold', sans-serif;
+         font-family: 'Foglihten No07', cursive;
