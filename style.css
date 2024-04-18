@@ -11,7 +11,7 @@ body{
              .headerBlock{
                  display: flex;               
              }
-             #techie{
+             .techie{
                height: 320px;
                width: 85%;
                border-radius: 7px;
@@ -255,7 +255,7 @@ body{
              .headerBlock{
                  display: flex;               
              }
-             #techie{
+             .techie{
                height: 350px;
                width: 70%;
                border-radius: 7px;
