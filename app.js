@@ -31,7 +31,7 @@ refresh.addEventListener("click",(e) => {
 })
 
 const search = document.getElementById("search")
-const paragraph = document.getElementById("para")
+const paragraph = document.getElementById("paras")
 paragraph.style.display = "none"
 search.addEventListener("click",() => {
    paragraph.style.display = "block"
