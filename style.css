@@ -32,6 +32,9 @@ body{
              .headerBlock{
                  display: flex;               
              }
+             .paragraph{
+                display: none;
+              }
              .techie{
                height: 320px;
                width: 85%;
@@ -280,6 +283,9 @@ body{
                  
                  
              }
+             .paragraph{
+                display: none;
+              }
              .headerBlock{
                  display: flex;               
              }
