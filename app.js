@@ -32,7 +32,7 @@ refresh.addEventListener("click",(e) => {
 
 const search = document.getElementById("search")
 const paragraph = document.querySelector(".paragraph")
-paragraph.style.display = "none"
+
 search.addEventListener("click",() => {
   
    paragraph.style.display = "block"
