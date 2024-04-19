@@ -305,10 +305,10 @@ body{
              #search:active{
                color: gray;
              }
-             input{
+             #input{
                  padding: 9px;
                  height: 35px;
-                 width: 75%;
+                 width: 85%;
                  border: 0.2px solid black;
                  border-radius: 0 20% 0 20%;
                  font-size: 15px;
