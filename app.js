@@ -29,3 +29,13 @@ refresh.addEventListener("click",(e) => {
     window.location.href = window.location.pathname;
     window.location.reload();
 })
+
+const search = document.getElementById("search")
+const paragraph = documen.getElementById("paragraph")
+
+search.addEventListener("click",() => {
+   paragraph.style.display = "block"
+   setTimeout(() => {
+     paragraph.style.display = "none"
+   },4000)
+}
