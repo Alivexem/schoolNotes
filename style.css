@@ -21,6 +21,8 @@ body{
              }
              header{
                  display: flex;
+                 position: fixed;
+                 top: 0;
                  justify-content: space-evenly;
                  align-items: center;
                  background-color: #202F72;
