@@ -306,8 +306,8 @@ body{
                color: gray;
              }
              #input{
-                 padding: 9px;
-                 height: 35px;
+                 padding: 0px;
+                 height: 10px;
                  width: 85%;
                  border: 0.2px solid black;
                  border-radius: 0 20% 0 20%;
