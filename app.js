@@ -34,9 +34,9 @@ const search = document.getElementById("search")
 const paragraph = document.querySelector(".paragraph")
 paragraph.style.display = "none"
 search.addEventListener("click",() => {
-   alert("hello world")
+  
    paragraph.style.display = "block"
    setTimeout(() => {
      paragraph.style.display = "none"
    },4000)
-}
+})
