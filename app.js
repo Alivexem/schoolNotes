@@ -7,7 +7,7 @@ menuBtn.addEventListener("click", () => {
       menu.classList.add("clicked");
       menu.style.display = "flex"
       menu.style.border = "1px solid white"
-      document.getElementById("first").style.marginTop = "100px"
+      document.getElementById("first").style.marginTop = "70px"
     }else{
         menu.classList.remove("clicked");
         menu.classList.add("notClicked");       
