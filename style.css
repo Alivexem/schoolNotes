@@ -27,7 +27,7 @@ body{
                  padding: 9px;
                  height: 21px;
                  width: 220px;
-                 border: 0.2px solid black;
+                 border: 2px solid black;
                  border-radius: 0 20% 0 20%;
                  font-size: 14px;
              }
@@ -310,8 +310,8 @@ body{
              #input{
                  padding: 9px;
                  height: 25px;
-                 width: 75%;
-                 border: 0.2px solid black;
+                 width: 70%;
+                 border: 2px solid black;
                  border-radius: 0 20% 0 20%;
                  font-size: 15px;
              }             
