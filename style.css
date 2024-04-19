@@ -18,6 +18,9 @@ body{
                  margin-left: 15px;
                  font-size: 25px;
              }
+             #search:active{
+               color: gray;
+             }
              input{
                  padding: 7px;
                  height: 30px;
