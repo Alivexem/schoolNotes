@@ -1,6 +1,7 @@
 const menuBtn = document.getElementById("menu");
 const menu = document.getElementById("menuwrap");
 const search = document.getElementById("search")
+const container = document.querySelector(".input-container")
 let click = true
 menuBtn.addEventListener("click", () => {
     if(click){
@@ -8,14 +9,14 @@ menuBtn.addEventListener("click", () => {
       menu.classList.add("clicked");
       menu.style.display = "flex"
       menu.style.border = "4px solid black"
-      search.style.marginTop = "50px"
+      container.style.marginTop = "50px"
     }else{
         menu.classList.remove("clicked");
         menu.classList.add("notClicked");       
         menu.style.border = "none"
         
         setTimeout(() => {
-            search.style.marginTop = "145px"
+            container.style.marginTop = "145px"
             menu.style.display = "none"
 
         },1450)
