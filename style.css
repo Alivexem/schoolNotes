@@ -137,12 +137,15 @@ body{
       padding: 10px;
       overflow: hidden;
       max-height: 0;
+      margin-top: 50px;
       margin-bottom: 25px;
     }
 
     .clicked {
       display: flex;
       max-height: 510px;
+      
+      margin-top: 50px;
       animation: slideDown 1.5s ease-in-out forwards;
     }
     .notClicked {
@@ -383,6 +386,7 @@ body{
       background-color: gray;
       padding: 10px;
       overflow: hidden;
+      margin-top: 50px;
       max-height: 0;
       margin-bottom: 25px;
     }
@@ -390,6 +394,7 @@ body{
     .clicked {
       display: flex;
       max-height: 510px;
+      margin-top: 50px;
       animation: slideDown 1.5s ease-in-out forwards;
     }
     .notClicked {
