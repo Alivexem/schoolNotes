@@ -38,5 +38,5 @@ search.addEventListener("click",() => {
    paragraph.style.display = "block"
    setTimeout(() => {
      paragraph.style.display = "none"
-   },4000)
+   },6000)
 })
