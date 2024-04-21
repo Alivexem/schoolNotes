@@ -17,7 +17,7 @@ The motivation behind creating OneFamily Website stems from the challenges faced
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/OneFamily-Website.git
+   git clone https://github.com/alivexem/OneFamily-Website.git
    ```
 2. Open the project directory in your preferred code editor.
 3. Launch the `index.html` file in your web browser to start using the application.
