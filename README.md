@@ -36,6 +36,5 @@ Contributions to OneFamily Website are welcome! To contribute, follow these step
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Create a new Pull Request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
+# Link
+- https://onefamily.vercel.app/
