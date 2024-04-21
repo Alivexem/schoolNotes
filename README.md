@@ -1,12 +1,12 @@
 
 
-# OneFamily Website
+# OneFamily Webapp
 
 ## Description
-OneFamily Website is a university web application designed specifically for students of the Faculty of Agriculture at the University of Calabar in Nigeria. The website serves as a centralized platform for accessing and downloading course materials, checking results, registering for courses, and utilizing a search algorithm for efficient navigation.
+OneFamily Webapp is a university web application designed specifically for students of the Faculty of Agriculture at the University of Calabar in Nigeria. The webapp serves as a centralized platform for accessing and downloading course materials, checking results, registering for courses, and utilizing a search algorithm for efficient navigation.
 
 ## Motivation
-The motivation behind creating OneFamily Website stems from the challenges faced by students during tests and exams, particularly in accessing necessary materials. This web application aims to alleviate those struggles and enhance the overall learning experience for students.
+The motivation behind creating OneFamily Webapp stems from the challenges faced by students during tests and exams, particularly in accessing necessary materials. This web application aims to alleviate those struggles and enhance the overall learning experience for students.
 
 ## Features
 - **Material Download**: Download course materials and resources seamlessly.
