@@ -46,7 +46,7 @@ body{
              }
              #input{
                  padding: 9px;
-                 height: 21px;
+                 height: 12px;
                  width: 220px;
                  border: 2px solid black;
                  border-radius: 0 20% 0 20%;
@@ -330,7 +330,7 @@ body{
              }
              #input{
                  padding: 9px;
-                 height: 25px;
+                 height: 15px;
                  width: 30%;
                  border: 2px solid black;
                  border-radius: 0 20% 0 20%;
