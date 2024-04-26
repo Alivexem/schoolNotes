@@ -513,6 +513,11 @@ body{
         padding: 5px;
 
     }
+    .btns{
+      width: 100px;
+      height: 20px;
+      font-size: 13px;
+    }
     #divhead p{
         color: white;
         font-size: 19px;
