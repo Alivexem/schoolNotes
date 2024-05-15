@@ -35,7 +35,7 @@ body{
                  }
              }
              #booking{
-                 animation: micer 1.5s ease-in-out infinite;
+                 animation: micer 1.2s ease-in-out infinite;
              }
              #mic{
                  animation: micer 2s ease-in-out infinite;
@@ -485,7 +485,7 @@ body{
                  animation: micer 2s ease-in-out infinite;
              }
              #booking{
-                 animation: micer 1.5s ease-in-out infinite;
+                 animation: micer 1.2s ease-in-out infinite;
              }
 
     .clicked {
