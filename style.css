@@ -34,6 +34,9 @@ body{
                      transform: scale(1)
                  }
              }
+             #booking{
+                 animation: micer 1.5s ease-in-out infinite;
+             }
              #mic{
                  animation: micer 2s ease-in-out infinite;
              }
@@ -480,6 +483,9 @@ body{
              }
              #mic{
                  animation: micer 2s ease-in-out infinite;
+             }
+             #booking{
+                 animation: micer 1.5s ease-in-out infinite;
              }
 
     .clicked {
