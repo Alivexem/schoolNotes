@@ -246,7 +246,7 @@
         }
             a{
                 text-decoration: none;
-               color: gray;
+                 color: black;
             }
             #buts{
                      display: flex;
@@ -546,7 +546,7 @@
         }
             a{
                 text-decoration: none;
-               color: gray;
+                color: black;
             }
             #buts{
                      display: flex;
